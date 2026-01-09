@@ -1,2 +1,2 @@
-USED FOR POWER PLnt calculator 
+USED FOR POWER Plant calculator 
 Power Plant Utility
